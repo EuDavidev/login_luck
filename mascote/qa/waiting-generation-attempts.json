@@ -1,0 +1,94 @@
+{
+  "state": "waiting",
+  "prompt_file": "prompts/rows/waiting.md",
+  "references": [
+    "references/layout-guides/waiting.png",
+    "references/canonical-base.png",
+    "references/riolu-lucario.png",
+    "references/chapeu-palha.png"
+  ],
+  "accepted": true,
+  "artifact_produced": true,
+  "attempt_count": 9,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ea102ddf-0f24-4e08-8149-25d164053876"
+    },
+    {
+      "attempt": 2,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "d9de6d1b-4ccb-4929-a570-4f10d0fb1b0a"
+    },
+    {
+      "attempt": 3,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "f9591a0c-6cf3-41a6-83ac-0eb40cd089a2"
+    },
+    {
+      "attempt": 4,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "4c101eca-0a79-4304-8ebc-0d87d8ffb063"
+    },
+    {
+      "attempt": 5,
+      "result": "generated_rejected_visual",
+      "artifact": "decoded/waiting-rejected-v1.png",
+      "script_qa_ok": true,
+      "visual_verdict": "fail",
+      "evidence": "6 expectant poses, but black curled stray strokes adjacent to wrists in poses04/05; fails no detached effects gate"
+    },
+    {
+      "attempt": 6,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "a19afabf-317c-4dbe-a714-2c795d9a89c4"
+    },
+    {
+      "attempt": 7,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "b0d83a6a-e4a5-494f-8b8a-679ba9afaf7a"
+    },
+    {
+      "attempt": 8,
+      "result": "generated_rejected_visual",
+      "artifact": "decoded/waiting-rejected-v2.png",
+      "script_qa_ok": true,
+      "visual_verdict": "fail",
+      "evidence": "6 expectant poses, but detached yellow emphasis marks above second pose hat"
+    },
+    {
+      "attempt": 9,
+      "result": "generated_accepted",
+      "artifact": "decoded/waiting.png",
+      "script_qa_ok": true,
+      "visual_verdict": "pass",
+      "evidence": "6 complete separated expectant poses: hands together, thoughtful chin, open palms asking, smiling anticipation; attached limbs, no detached effects or clipping"
+    }
+  ],
+  "selected": "decoded/waiting.png"
+}

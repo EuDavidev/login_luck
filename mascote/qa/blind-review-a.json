@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's blue muzzle and dark nose extend to the right of its visible eye; B's muzzle and nose extend to the left of its visible eye."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's projecting blue snout is on the left of the large visible eye; B's projecting snout is on the right of the large visible eye."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows a leftward nose and muzzle profile with the visible eye behind it to the right; B shows the reversed profile, with its nose to the right of the eye."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's facial profile narrows to a dark nose at the right edge of the blue muzzle; B's dark nose and blue muzzle protrude at the left edge of the face."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite the lowered brim, A's visible eye sits left of the muzzle's rightward nose; B's eye sits right of the muzzle's leftward nose."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a dark nose on the right-hand end of the blue face below the brim; B has the dark nose on the left-hand end, with the visible eye to its right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "The brim hides much of both faces, but A's exposed nose is to the right of its narrow visible eye, while B's exposed nose is to the left of its visible eye."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes both full eyes and a broad lifted muzzle beneath a raised brim, with the pupils aimed high; B's broad hat top and low brim obscure the upper eyes, leaving a small tucked face below."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's hat crown dominates the head and its low brim covers the upper face, with the chin tucked; B exposes the full eye and lifts the snout under a brim that rises at the face's front."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's brim runs low over the visible eye and the muzzle sits compressed beneath it; B's front brim rises above the exposed eye and the muzzle and chin angle upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visible eye is fully exposed and aimed upward beneath a raised front brim; B's flatter low brim overlaps the eye's top, and the nose and chin sit lower beneath the hat."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A's left-facing muzzle is lifted and the exposed pupil aims high under an elevated front brim; B's brim occludes the upper eye while its chin is tucked close to the neck."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the hat top prominently and only a low strip of eye and muzzle beneath the brim; B shows a full eye aimed upward and a raised muzzle beneath a front brim tilted upward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's front brim sits low against the eye and the muzzle slopes downward with a tucked chin; B's front brim lifts above the eye, whose pupil aims high, and its muzzle projects at a higher pitch."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pet_6ac1b9910a54819199a148fa7dd29836",
+  "name": "Monkey D. Luck",
+  "description": "Riolu fofo, atlético e cheio de confiança, com chapéu de palha de faixa vermelha e personalidade de programador full stack: curioso, persistente no debugging e orgulhoso de cada entrega.",
+  "is_custom": true,
+  "is_active": true,
+  "sprite_version": 2,
+  "atlas": "spritesheet-v2.png",
+  "width": 1536,
+  "height": 2288,
+  "sha256": "0c2a42eb785de8248bf631f29a9461ab532354fd80adf7d716f7bba4fb745f28",
+  "verification": "select_pet and list_pets confirm the same active stable pet ID"
+}

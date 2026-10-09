@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 145869,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1084,
+        725
+      ],
+      "used_pixels": 139579,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1084,
+        0,
+        1626,
+        725
+      ],
+      "used_pixels": 143525,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1626,
+        0,
+        2168,
+        725
+      ],
+      "used_pixels": 135315,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

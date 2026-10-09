@@ -1,0 +1,137 @@
+{
+  "source_frames_root": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\frames",
+  "output_frames_root": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames",
+  "target_hat_width": 98.0,
+  "ground_anchor_y": 203,
+  "rows": [
+    {
+      "state": "idle",
+      "source_hat_width": 124.5,
+      "scale": 0.7871485943775101,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\05.png"
+      ]
+    },
+    {
+      "state": "running-right",
+      "source_hat_width": 115.0,
+      "scale": 0.8521739130434782,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\05.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\06.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\07.png"
+      ]
+    },
+    {
+      "state": "running-left",
+      "source_hat_width": 115.0,
+      "scale": 0.8521739130434782,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\05.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\06.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\07.png"
+      ]
+    },
+    {
+      "state": "waving",
+      "source_hat_width": 127.0,
+      "scale": 0.7716535433070866,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\03.png"
+      ]
+    },
+    {
+      "state": "jumping",
+      "source_hat_width": 98,
+      "scale": 1.0,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\04.png"
+      ]
+    },
+    {
+      "state": "failed",
+      "source_hat_width": 120.0,
+      "scale": 0.8166666666666667,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\05.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\06.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\07.png"
+      ]
+    },
+    {
+      "state": "waiting",
+      "source_hat_width": 126.0,
+      "scale": 0.7777777777777778,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\05.png"
+      ]
+    },
+    {
+      "state": "running",
+      "source_hat_width": 128.5,
+      "scale": 0.7626459143968871,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\05.png"
+      ]
+    },
+    {
+      "state": "review",
+      "source_hat_width": 123.5,
+      "scale": 0.7935222672064778,
+      "ground_anchor_y": 203,
+      "output_frames": [
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\00.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\01.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\02.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\03.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\04.png",
+        "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\05.png"
+      ]
+    }
+  ]
+}

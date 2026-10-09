@@ -1,0 +1,20 @@
+{
+  "job": "look-cardinals",
+  "source": "decoded/look-cardinals.png",
+  "attempts": [
+    {"attempt": 1, "result": "moderation_blocked", "stage": "output", "categories": ["other"], "request_id": "71386a0c-e034-4d6c-88f1-1d6fd021cb4f"},
+    {"attempt": 2, "result": "generated", "source": "decoded/look-cardinals.png"}
+  ],
+  "extraction_report": "qa/cardinal-anchors.json",
+  "extraction_ok": true,
+  "worker_visual_verdict": "pass",
+  "observations": {
+    "000": "Frontal head pitched up: muzzle underside and chin more visible, nose above mouth, red eyes aimed upward. Straw brim tilts upward exposing full face.",
+    "090": "Head yaws screen-right: muzzle/nose tip extends to viewer right of head center, near red eye visible, far eye occluded. Lower body remains frontal.",
+    "180": "Head pitches down: broad straw crown visible, brim projects lower over forehead, red eyes and blue muzzle point below head center while mask remains visible.",
+    "270": "Head yaws screen-left: blue muzzle/nose tip extends to viewer left of head center, near red eye visible, far eye occluded. Lower body remains frontal.",
+    "identity": "All four retain charcoal eye mask, original red open eyes, black appendages/legs, blue body/tail, pale wrist spots and straw hat with red band.",
+    "geometry": "Four separated full-body source poses with outer magenta margins; native extracted anchors complete and unclipped. Feet, torso, tail and raised paw remain anchored consistently. No detached effects or guide marks."
+  },
+  "parent_acceptance_pending": true
+}

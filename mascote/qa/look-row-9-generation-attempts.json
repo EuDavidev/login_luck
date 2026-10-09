@@ -1,0 +1,42 @@
+{
+  "job": "look-row-9",
+  "source": "decoded/look-row-9.png",
+  "parent_acceptance_pending": true,
+  "registered": false,
+  "reference_packaging": "Six manifest reference contents retained in five image paths; both original identity references deterministically packaged unchanged side-by-side.",
+  "attempts": [
+    {
+      "attempt": 0,
+      "result": "input_validation_error",
+      "error": "referenced_image_paths must contain at most 5 paths; generation did not start"
+    },
+    {
+      "attempt": 1,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "5ab8c8fa-201b-4808-9faf-1e2ba66dc1fc"
+    },
+    {
+      "attempt": 2,
+      "result": "generated",
+      "source": "decoded/look-row-9.png"
+    },
+    {
+      "attempt": 3,
+      "job": "whole coherent row repair",
+      "result": "generated",
+      "source": "decoded/look-row-9.png",
+      "preserved_rejected_source": "decoded/look-row-9-v1.png"
+    }
+  ],
+  "source_observations": {
+    "count": "Eight separated complete full-body groups with visible outer source margins.",
+    "anchors": "Feet, torso, tail and raised paw stay anchored across source row.",
+    "directions": "Repaired000 broadly frontal centered muzzle with both red eyes and raised chin, eyesup. Head arcs screenright and then down-right; native registered semantic review still required.",
+    "identity_defect": "Resolved in repaired source: all floppy appendages solid charcoal; no purple-magenta interiors visible."
+  },
+  "worker_verdict": "source pass pending parent registration and direction semantics"
+}

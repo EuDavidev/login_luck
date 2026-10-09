@@ -1,0 +1,366 @@
+{
+  "state": "review",
+  "prompt_file": "prompts/rows/review.md",
+  "references": [
+    "references/layout-guides/review.png",
+    "references/canonical-base.png",
+    "references/riolu-lucario.png",
+    "references/chapeu-palha.png"
+  ],
+  "accepted": true,
+  "artifact_produced": true,
+  "attempt_count": 37,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "12b89808-e86e-4d40-bfee-2df31bd1b62e"
+    },
+    {
+      "attempt": 2,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "379d389c-8695-490e-bbc0-4f7ba7133837"
+    },
+    {
+      "attempt": 3,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "d29222cd-a93e-4604-95f2-9ae69fb6f2b5"
+    },
+    {
+      "attempt": 4,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "a3578d86-74bf-4e64-b6c6-41aba6854703"
+    },
+    {
+      "attempt": 5,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "91ea86cf-036d-426e-9eb7-3751c4add846"
+    },
+    {
+      "attempt": 6,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "c7acad68-6630-4186-87ca-de20033c3ee7"
+    },
+    {
+      "attempt": 7,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "dcd9dca9-d358-4335-8164-2e61785c377d"
+    },
+    {
+      "attempt": 8,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "a3a504fc-6cb2-4536-a725-211653bd8a3b"
+    },
+    {
+      "attempt": 9,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "8f60fc93-30cc-4c14-a7c1-df4420e32d83"
+    },
+    {
+      "attempt": 10,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "0205b2ce-4165-4af3-8438-2b4271efe162"
+    },
+    {
+      "attempt": 11,
+      "result": "generated_needs_visual_repair",
+      "source": "C:/Users/davis/.codex/generated_images/01a1037d-f436-71a1-8e3b-1a92ce4642e9/exec-0104a6bc-98d8-4f57-af43-4309765453e9.png",
+      "visual_issues": [
+        "white marking added on black ear in frames 1 and 4",
+        "tail flips from screen-left to screen-right in frame 4"
+      ]
+    },
+    {
+      "attempt": 12,
+      "job": "visual_repair_plain_ears_stable_tail",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ad255d51-fbde-4057-a420-eebff1a00879"
+    },
+    {
+      "attempt": 13,
+      "job": "visual_repair_plain_ears_stable_tail",
+      "result": "generated_needs_visual_repair",
+      "source": "C:/Users/davis/.codex/generated_images/01a1037d-f436-71a1-8e3b-1a92ce4642e9/exec-65de8170-a7bf-46f1-838a-8288d56f3164.png",
+      "visual_issues": [
+        "tail corrected, frame1 ear corrected, residual white streak on frame4 ear"
+      ]
+    },
+    {
+      "attempt": 14,
+      "job": "visual_repair_residual_ear_streak",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "f47471b4-cb27-4e69-8f54-efd4455e83a4"
+    },
+    {
+      "attempt": 15,
+      "job": "visual_repair_residual_ear_streak",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "94b05922-ab8a-4f0e-8155-da9772b3947e"
+    },
+    {
+      "attempt": 16,
+      "job": "visual_repair_residual_ear_streak",
+      "result": "generated_needs_visual_repair",
+      "source": "C:/Users/davis/.codex/generated_images/01a1037d-f436-71a1-8e3b-1a92ce4642e9/exec-037d0285-eb4b-40cb-bc4f-c27431861307.png",
+      "visual_issues": [
+        "white streak still present on frame4 floppy ear"
+      ]
+    },
+    {
+      "attempt": 17,
+      "job": "visual_repair_simplified_front_facing_family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "83808bd6-0124-4f1b-962a-7bf4cd61c2ac"
+    },
+    {
+      "attempt": 18,
+      "job": "visual_repair_simplified_front_facing_family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "0220cfe5-4a8f-4b6d-86ce-93e06c0f623f"
+    },
+    {
+      "attempt": 19,
+      "job": "visual_repair_simplified_front_facing_family",
+      "result": "generated_needs_visual_repair",
+      "source": "C:/Users/davis/.codex/generated_images/01a1037d-f436-71a1-8e3b-1a92ce4642e9/exec-69b8f0a9-f230-4219-aba1-72df69446c19.png",
+      "qa": "Prior approval revoked: frame01 closed eyes removes permanent dark fur eye-mask; parent plus independent review verified identity failure."
+    },
+    {
+      "attempt": 20,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "d4a55eca-0ee9-4bb7-ae4a-fff169ae4310"
+    },
+    {
+      "attempt": 21,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "340e3c7a-a0b8-42df-adb9-620b72220cb8"
+    },
+    {
+      "attempt": 22,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "be5aa697-baee-4542-8ea2-226724a7b874"
+    },
+    {
+      "attempt": 23,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "75e0388c-a2be-493f-9591-bfa71ead8553"
+    },
+    {
+      "attempt": 24,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "26f481ad-48c2-4aec-8240-358184feba7e"
+    },
+    {
+      "attempt": 25,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "914b6426-33d2-410c-9a3c-73d3635d8f72"
+    },
+    {
+      "attempt": 26,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "73e19dfa-9076-4282-b463-d2c50e475cdf"
+    },
+    {
+      "attempt": 27,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "9aee702a-09ac-46b5-8d9e-a67f9ed7eaee"
+    },
+    {
+      "attempt": 28,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "90dde355-b1a0-4197-996f-f25d6b4faaea"
+    },
+    {
+      "attempt": 29,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "9eab95b0-d8c8-48e4-aeed-08a4ebd8de9c"
+    },
+    {
+      "attempt": 30,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "de3f4216-7a22-4c6b-aef2-fedbeb676a2e"
+    },
+    {
+      "attempt": 31,
+      "job": "visual_repair_permanent_eye_mask_all_eyes_open",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "1beff543-9974-4022-83ee-1952767cba51"
+    },
+    {
+      "attempt": 32,
+      "job": "fresh-canonical-review-family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "e0373663-256c-4648-b9e7-48e896fcf513"
+    },
+    {
+      "attempt": 33,
+      "job": "fresh-canonical-review-family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "4c23001f-d9a3-4626-8311-8ed9e67fed9a"
+    },
+    {
+      "attempt": 34,
+      "job": "fresh-canonical-review-family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "1de69e4b-5224-4eb1-8a66-18b1c926ed55"
+    },
+    {
+      "attempt": 35,
+      "job": "fresh-canonical-review-family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "0bfdfbf1-68d6-46fa-ba93-73ff88c2367c"
+    },
+    {
+      "attempt": 36,
+      "job": "fresh-canonical-review-family",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ad9989c9-f232-4cc3-b4d0-2386eceb4898"
+    },
+    {
+      "attempt": 37,
+      "job": "fresh-canonical-review-family",
+      "result": "accepted",
+      "source": "C:/Users/davis/.codex/generated_images/01a1037d-f436-71a1-8e3b-1a92ce4642e9/exec-8acecfc9-7f3a-4695-a69b-d7e9ede14b3c.png",
+      "qa": "Bundled extract+inspect ok true no errors/warnings; all six cells individually visually inspected at192x208: both red eyes open; charcoal mask both eye sockets and bridge in all six; dark ears, stable left tail, complete body, coherent review poses and stable baseline."
+    }
+  ]
+}

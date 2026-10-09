@@ -1,0 +1,40 @@
+{
+  "state": "running",
+  "repair": "permanent charcoal eye mask and dark ears consistency",
+  "attempt_count": 4,
+  "accepted": true,
+  "artifact_produced": true,
+  "prior_artifact": "decoded/running-rejected-mask-v1.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "ec58afd1-1336-4977-b462-9d391db69a92"
+    },
+    {
+      "attempt": 2,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "62568bfd-d5ee-4733-8bdf-5006cc3af608"
+    },
+    {
+      "attempt": 3,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "0128a6ff-1919-43fa-a667-6d849621d087"
+    },
+    {
+      "attempt": 4,
+      "result": "generated_accepted",
+      "artifact": "decoded/running.png",
+      "script_qa_ok": true,
+      "visual_verdict": "pass",
+      "evidence": "All6 have open red eyes and connected charcoal mask both sockets/bridge, dark ears no white patches; plantedfeet busy paws/pawchin, tail screenleft, stable source margins"
+    }
+  ],
+  "selected": "decoded/running.png"
+}

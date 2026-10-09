@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11126,
+          "bbox": [
+            37,
+            46,
+            154,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11006,
+          "bbox": [
+            37,
+            47,
+            154,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11054,
+          "bbox": [
+            37,
+            47,
+            154,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11009,
+          "bbox": [
+            37,
+            45,
+            154,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 133
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10997,
+          "bbox": [
+            37,
+            45,
+            154,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11019,
+          "bbox": [
+            37,
+            45,
+            154,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 117
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12069,
+          "bbox": [
+            21,
+            37,
+            170,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10446,
+          "bbox": [
+            26,
+            36,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12249,
+          "bbox": [
+            20,
+            35,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11565,
+          "bbox": [
+            21,
+            37,
+            168,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11212,
+          "bbox": [
+            22,
+            37,
+            167,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11018,
+          "bbox": [
+            22,
+            36,
+            169,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12191,
+          "bbox": [
+            23,
+            37,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12510,
+          "bbox": [
+            20,
+            37,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12033,
+          "bbox": [
+            21,
+            37,
+            170,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10458,
+          "bbox": [
+            25,
+            36,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12235,
+          "bbox": [
+            20,
+            35,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11542,
+          "bbox": [
+            21,
+            37,
+            167,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11191,
+          "bbox": [
+            21,
+            37,
+            166,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11055,
+          "bbox": [
+            22,
+            36,
+            169,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12171,
+          "bbox": [
+            24,
+            37,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12486,
+          "bbox": [
+            20,
+            37,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10812,
+          "bbox": [
+            36,
+            48,
+            156,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10752,
+          "bbox": [
+            36,
+            48,
+            156,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10931,
+          "bbox": [
+            36,
+            48,
+            156,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 73
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11144,
+          "bbox": [
+            36,
+            48,
+            156,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9294,
+          "bbox": [
+            34,
+            78,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 86
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10142,
+          "bbox": [
+            34,
+            35,
+            158,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10269,
+          "bbox": [
+            34,
+            6,
+            158,
+            155
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10618,
+          "bbox": [
+            38,
+            39,
+            153,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10374,
+          "bbox": [
+            34,
+            68,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10958,
+          "bbox": [
+            37,
+            40,
+            153,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10992,
+          "bbox": [
+            33,
+            50,
+            157,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11135,
+          "bbox": [
+            28,
+            68,
+            162,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11454,
+          "bbox": [
+            35,
+            71,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11526,
+          "bbox": [
+            33,
+            64,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11041,
+          "bbox": [
+            33,
+            60,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11149,
+          "bbox": [
+            39,
+            40,
+            151,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10881,
+          "bbox": [
+            37,
+            40,
+            153,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10108,
+          "bbox": [
+            41,
+            51,
+            149,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9783,
+          "bbox": [
+            45,
+            50,
+            144,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11177,
+          "bbox": [
+            38,
+            51,
+            152,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10102,
+          "bbox": [
+            40,
+            50,
+            149,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9887,
+          "bbox": [
+            41,
+            51,
+            149,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10450,
+          "bbox": [
+            43,
+            47,
+            148,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10381,
+          "bbox": [
+            38,
+            51,
+            153,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 80
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10320,
+          "bbox": [
+            37,
+            51,
+            154,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 110
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10528,
+          "bbox": [
+            38,
+            51,
+            151,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10072,
+          "bbox": [
+            40,
+            50,
+            152,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 89
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10687,
+          "bbox": [
+            39,
+            51,
+            152,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10470,
+          "bbox": [
+            39,
+            51,
+            152,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10769,
+          "bbox": [
+            37,
+            44,
+            155,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 65
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10746,
+          "bbox": [
+            39,
+            46,
+            152,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10629,
+          "bbox": [
+            38,
+            44,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10494,
+          "bbox": [
+            38,
+            46,
+            153,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11318,
+          "bbox": [
+            38,
+            46,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\davis\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\monkey-d-luck\\qa\\normalized-frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11124,
+          "bbox": [
+            37,
+            46,
+            154,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        }
+      ]
+    }
+  ]
+}

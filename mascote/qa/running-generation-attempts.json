@@ -1,0 +1,66 @@
+{
+  "attempt_count": 8,
+  "prompt_file": "prompts/rows/running.md",
+  "unchanged_prompt": true,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "7e13ccd5-c471-447a-bc65-7bb98f7ba27a"
+    },
+    {
+      "attempt": 2,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "bf28252f-871c-48e8-a2a6-8af5078304e7"
+    },
+    {
+      "attempt": 3,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "5d9b4f15-547e-4478-bc15-8ab0b59815e4"
+    },
+    {
+      "attempt": 4,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "a274dedb-dfb1-4501-9499-ae80e322c2fe"
+    },
+    {
+      "attempt": 5,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "5aa590d1-a134-49bf-8bbc-a03a63c235ee"
+    },
+    {
+      "attempt": 6,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "797b62e2-6e59-4b86-b50b-aff21eee6601"
+    },
+    {
+      "attempt": 7,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "f0650823-8fec-470d-a859-931e234fd477"
+    },
+    {
+      "attempt": 8,
+      "result": "generated",
+      "source": "exec-f40dd94d-d0d2-4a01-ac11-6edaa8d5ee4b.png",
+      "selected": "decoded/running.png",
+      "script_qa_ok": true,
+      "visual_verdict": "pass",
+      "evidence": "6 separated complete poses feet planted stable; focused thinking, busy paw movement, closed-eye concentration, thoughtful ear touch; no locomotion, clipping or detached effects"
+    }
+  ],
+  "selected": "decoded/running.png"
+}

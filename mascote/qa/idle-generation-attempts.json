@@ -1,0 +1,159 @@
+{
+  "state": "idle",
+  "accepted": true,
+  "source_preserved": "decoded/idle.png",
+  "source_revision_preserved": "decoded/idle-v1.png",
+  "structural_extraction": "passed",
+  "structural_inspection": "passed",
+  "visual_qa": "passed: six complete separated poses, visible source margins, stable baseline and scale, quiet breathing and closed-eye blink, canonical identity preserved",
+  "waiting_started": true,
+  "review_started": true,
+  "attempts": [
+    {
+      "job": "initial idle",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "e943659d-0997-46fa-b4c0-5d081eec2f8f"
+    },
+    {
+      "job": "unchanged idle retry",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "6d55e6eb-7453-4474-bb36-79a795d96eab"
+    },
+    {
+      "job": "resume unchanged idle",
+      "result": "reference_read_error",
+      "error": "original temporary reference missing; os error 2; generation not started"
+    },
+    {
+      "job": "idle with reattached original references",
+      "result": "generated",
+      "artifact": "decoded/idle-v1.png"
+    },
+    {
+      "job": "spacing repair",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "fefaf88b-9f92-4c76-99e9-53a88657616e"
+    },
+    {
+      "job": "unchanged spacing repair resumed attempt 1",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "b4a118e2-ea6d-4de7-bb49-7fe89b13a4c8"
+    },
+    {
+      "job": "unchanged spacing repair resumed attempt 2",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "4d438a62-986e-44db-9076-3641299ba6a1"
+    },
+    {
+      "job": "unchanged spacing repair resumed attempt 3",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ba33b3bd-7331-4c60-af9b-ddb64a2ec583"
+    },
+    {
+      "job": "unchanged spacing repair next batch attempt 1",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "4fec5fbc-4c2f-491c-bc58-b97df5098bfa"
+    },
+    {
+      "job": "unchanged spacing repair next batch attempt 2",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "9f052658-7cb3-4907-9601-429e2314809a"
+    },
+    {
+      "job": "unchanged spacing repair next batch attempt 3",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "942e36de-af5a-4124-b3f6-28236df1988b"
+    },
+    {
+      "job": "original full idle regeneration attempt 1",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "4917c23a-9514-4555-a67c-be398f9ccc9f"
+    },
+    {
+      "job": "original full idle regeneration attempt 2",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "9d219e64-c33f-403b-8f2f-adf86e32b086"
+    },
+    {
+      "job": "original full idle regeneration attempt 3",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "b6794b77-365c-4c6c-b706-2976501bc77f"
+    },
+    {
+      "job": "original full idle regeneration next batch attempt 1",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "576cbe8b-b60a-40f7-8523-d8614f061b67"
+    },
+    {
+      "job": "original full idle regeneration next batch attempt 2",
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "6e4090a7-0ca0-48d0-9a01-1dadba1d5d0c"
+    },
+    {
+      "job": "original full idle regeneration next batch attempt 3",
+      "result": "generated",
+      "artifact": "decoded/idle.png"
+    }
+  ],
+  "resumed_run_block_count": 3,
+  "total_generation_calls": 16,
+  "total_moderation_blocks": 14,
+  "total_successful_generation_calls": 2,
+  "next_batch_block_count": 3
+}

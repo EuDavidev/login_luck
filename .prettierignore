@@ -1,0 +1,9 @@
+AGENTS.md
+mascote/
+public/mascote/
+node_modules/
+.next/
+.task/
+playwright-report/
+test-results/
+package-lock.json

@@ -1,0 +1,17 @@
+{
+  "accepted": true,
+  "source": "decoded/look-row-9.png",
+  "registered": "decoded/look-row-9-registered.png",
+  "observations": {
+    "000": "Two original red eyes high in charcoal sockets; centered lifted muzzle and exposed chin, symmetric hat undersurface; vertical up family.",
+    "022.5": "Head begins screen-right yaw with both eyes, nose raised toward right; feet and tail planted.",
+    "045": "Right-side muzzle and upward red pupil, chin lifted, rear eye occludes naturally.",
+    "067.5": "Head yaw farther right while slightly elevated; original visible eye and muzzle lead the direction.",
+    "090": "Clear right profile with protruding muzzle at screen-right, gaze right and hat following yaw.",
+    "112.5": "Hat crown opens, brim pitches lower and muzzle drops while facing right.",
+    "135": "Right-facing lower muzzle, lower eye line under brim and greater crown exposure.",
+    "157.5": "Head pitches down strongly under broad crown, muzzle still toward right; accepted down-right family. The horizontal profile is strong so inspect its boundary to180 in completed loop."
+  },
+  "identity": "All eight retain charcoal mask and floppy appendages, red eyes, blue Riolu body/tail, pale wrist patches and golden straw hat with red band. No clipping, interior chroma-colored appendage, detached effect or whole-body turntable.",
+  "registration": "Bundled common-scale registration applied; lower body and feet remain anchored at idle baseline."
+}

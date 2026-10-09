@@ -1,0 +1,22 @@
+{
+ "artifact":"final/spritesheet-standard.png",
+ "scope":"standard nine rows; native 192x208 atlas cells and selected normalized cells; ordered pose comparison and GIF metadata",
+ "overall_verdict":"pass_with_warning",
+ "blocking_issues":[],
+ "states":[
+  {"state":"idle","frames":6,"verdict":"pass","evidence":"Calm planted stance, one closed-eye blink with charcoal mask retained, 1-2 pixel gentle bob, tail/hands settle. Idle alpha bottom204-205."},
+  {"state":"running-right","frames":8,"verdict":"pass","evidence":"Profile nose points screen-right throughout; long/short strides alternate and arm swing changes, complete hat/tail/limbs."},
+  {"state":"running-left","frames":8,"verdict":"pass","evidence":"Profile nose points screen-left throughout, alternating stride matches rightward family and markings/hat remain consistent."},
+  {"state":"waving","frames":4,"verdict":"pass","evidence":"Raised paw travels up beside head then returns toward chest; planted feet and complete straw hat."},
+  {"state":"jumping","frames":5,"verdict":"pass","evidence":"Crouch takeoff, rising body, airborne apex, descending folded legs, crouch landing. Alpha bottom203 on takeoff/landing, apex155 gives48pixel lift; top moves78 to6. Hat follows attached head."},
+  {"state":"failed","frames":8,"verdict":"pass","evidence":"Drooping head and closed eyes with charcoal eye-plane, slump into seated hips/feet forward, face covered by paws, return to deflated standing. Hat never separates."},
+  {"state":"waiting","frames":6,"verdict":"pass","evidence":"Clasped hands, chin touch, both palms open asking, smiling anticipation. One knee raised in brief anticipation, no directional travel. No detached symbols."},
+  {"state":"running","frames":6,"verdict":"pass","evidence":"All6 retain both open red eyes with connected charcoal sockets/bridge and dark ears; plantedfeet, paws atchin, purposeful hand activity and ear touch, no foot running."},
+  {"state":"review","frames":6,"verdict":"pass","evidence":"Thoughtful paw atchin and narrowed appraisal progress to proud handsathips then reset. Permanent charcoal bothsocket/bridge mask retained throughout; all eyes open/narrowed."}
+ ],
+ "identity":{"verdict":"pass","evidence":"Blue/charcoal Riolu anatomy, red eyes, floppy dark side appendages, blue tail, cream wrist spots, golden straw hat redband and blueear tips remain readable across9. Hat crown/brim construction remains comparable; profile brim change follows turn."},
+ "geometry":{"verdict":"pass","evidence":"All57 required cells contain full complete poses, source margins present, unused cells blank. Sharedscale avoids extreme size changes; standing baseline stable; jump displacement intentional."},
+ "warnings":[{"issue":"Magenta edge fringe remains","evidence":"Native finalstandard cells show thin saturated magenta outlines around some hats/limbs/ears; visible against black transparent preview.","action":"Parent should ensure required final despill removes fringe before v2 upload; standard intermediate only."}],
+ "preview_metadata":{"native_per_state_gifs":"all9 at192x208 and framecounts match6,8,8,4,5,8,6,6,6","all_state_gif":"57frames at192x232","idle_jump_idle_gif":"17frames at192x208"},
+ "inspection_limit":"Tool exposed static frames; ordered pose continuity and GIF frame metadata were inspected, not real-time animated playback. No claim of timed playback verification."
+}

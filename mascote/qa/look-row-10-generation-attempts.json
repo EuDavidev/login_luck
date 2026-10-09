@@ -1,0 +1,363 @@
+{
+  "job": "look-row-10",
+  "artifact_produced": true,
+  "accepted": false,
+  "attempt_count": 38,
+  "prompt_file": "prompts/rows/look-row-10.md plus qa/look-mechanics.md and consistent requested identity/direction locks",
+  "references": [
+    "references/layout-guides/look-row-10.png",
+    "qa/contact-sheet.png",
+    "decoded/look-anchors-approved.png",
+    "decoded/look-row-9.png",
+    "references/canonical-and-original-references.png"
+  ],
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "aaa0da86-0040-44cb-9092-2d3af10a9773"
+    },
+    {
+      "attempt": 2,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "d893fa60-1f9d-4533-bed9-412f13c79a9c"
+    },
+    {
+      "attempt": 3,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "6aff76a0-0387-4351-a04e-6c18fc715641"
+    },
+    {
+      "attempt": 4,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "b0b68546-3c4f-4caa-bec7-315c6a40f3f3"
+    },
+    {
+      "attempt": 5,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "f8bfed38-e336-41e2-80a4-29f08d227cac"
+    },
+    {
+      "attempt": 6,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "02c2dead-00ff-48f2-87a9-8e7eb962df77"
+    },
+    {
+      "attempt": 7,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ba41907b-f25b-4a49-b0d7-54f1ca48b572"
+    },
+    {
+      "attempt": 8,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "20ba68e3-3766-431a-b73b-522c3a901301"
+    },
+    {
+      "attempt": 9,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ef6bd4fb-c145-4eb3-89b5-ab6099f80e6f"
+    },
+    {
+      "attempt": 10,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "a9fbeef9-2020-4bab-bf7a-fc58536e2f79"
+    },
+    {
+      "attempt": 11,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "5937e257-fdce-4b58-bd4c-592ce8b36d56"
+    },
+    {
+      "attempt": 12,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "bb380bb8-0dcc-49f0-b59e-20eb770ae53f"
+    },
+    {
+      "attempt": 13,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "09578e6d-4baa-421f-baf0-1a9f323c7b1b"
+    },
+    {
+      "attempt": 14,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "d6897f71-263f-4bfa-a96d-cfe268b8fbae"
+    },
+    {
+      "attempt": 15,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "689a778e-5bfa-410a-b92f-de3b14a7c872"
+    },
+    {
+      "attempt": 16,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "d2544695-ada9-4a8e-ae31-9c91b1482078"
+    },
+    {
+      "attempt": 17,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "ed211cd7-dc39-44b6-ad97-a0eb5c99b2b9"
+    },
+    {
+      "attempt": 18,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "8420ae6a-fcdc-4f46-aa6d-ede38d943e20"
+    },
+    {
+      "attempt": 19,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "906bbd18-a1d8-4bc3-9e47-3bc122a71049"
+    },
+    {
+      "attempt": 20,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "04c6d0e1-c385-400b-a0ca-63aced22a9ad"
+    },
+    {
+      "attempt": 21,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "b95aa97d-3a9b-4bdd-8b9d-4087a95acc54"
+    },
+    {
+      "attempt": 22,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "09155a9e-f238-4021-a744-6d2bbd410fc3"
+    },
+    {
+      "attempt": 23,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "73884326-5342-4fec-b315-248fa713c9a9"
+    },
+    {
+      "attempt": 24,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "7828e900-e3bb-43c7-8450-b4207d817118"
+    },
+    {
+      "attempt": 25,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "82ad5376-66d1-485a-938b-809e2521e0aa"
+    },
+    {
+      "attempt": 26,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "693396c3-a622-47fd-92b5-8e06a8c4e8bc"
+    },
+    {
+      "attempt": 27,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "50f0c827-4b77-49ef-8542-3e8bdf55f48a"
+    },
+    {
+      "attempt": 28,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "1095e730-75f9-4659-8824-7dd79186836f"
+    },
+    {
+      "attempt": 29,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "6b851d9c-d4f4-4184-af18-7cc02aa04e22"
+    },
+    {
+      "attempt": 30,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "8c9f7e72-87eb-448d-9072-2a0be2aee95b"
+    },
+    {
+      "attempt": 31,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "49401f76-f6a7-4818-ae2d-b2cec0b1d7d1"
+    },
+    {
+      "attempt": 32,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "8d44c9d4-2c58-4ca2-9c40-efe92b786351"
+    },
+    {
+      "attempt": 33,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "a4fc5545-86fe-4ad6-a694-6901e40fd7bf"
+    },
+    {
+      "attempt": 34,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "09d550aa-294e-4812-a412-5385d8116507"
+    },
+    {
+      "attempt": 35,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "8089db99-b7cf-4f33-9bbf-5e6a402abf7a"
+    },
+    {
+      "attempt": 36,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "9c91f5a2-8467-4cdc-bd90-d3f6656f73c9"
+    },
+    {
+      "attempt": 37,
+      "result": "moderation_blocked",
+      "stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "98df7fb0-779b-4df5-8a0f-a3a807545c4f"
+    },
+    {
+      "attempt": 38,
+      "result": "generated",
+      "source": "decoded/look-row-10.png"
+    }
+  ],
+  "source": "decoded/look-row-10.png",
+  "worker_source_verdict": "pass pending native registration and parent semantic QA",
+  "source_observations": {
+    "count": "Eight complete separated wholebodygroups with visible outer padding",
+    "identity": "All appendages charcoal, maskpermanent, originalred eyesvisible, wristspots,hatandbody preserved",
+    "directions": "180centereddown broadcrown/brimlower with eyesandmuzzlebelowheadcenter;202.5/225leftdown;247.5moderateleft slightdown;270clearleftprofile;292.5/315/337.5leftup with exposedchin and noseup",
+    "anchor": "Foot/body/tail anchorfixed all8",
+    "boundary": "337.5 remains moderateleftyaw rather than nearlyfrontal, needs parent review towardrow9UP"
+  }
+}
